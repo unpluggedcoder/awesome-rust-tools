@@ -10,7 +10,8 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
   - [File](#file)
   - [Process](#process)
   - [Shell](#shell)
-  - [Flamegraph](#flamegraph)
+  - [Performance](#performance)
+  - [Utilities](#utilities)
   - [Tool Libraries](#tool-libraries)
 
 
@@ -35,7 +36,6 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 
 * [bat](https://github.com/sharkdp/bat)— A `cat(1)` clone with wings.
 * [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
-* [dtool](https://github.com/guoxbin/dtool) — A command-line tool collection to assist development.
 
 
 
@@ -53,11 +53,18 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 
 
 
-## Flamegraph
+## Performance
 
 * [inferno](https://github.com/jonhoo/inferno) — A Rust port of FlameGraph. 18x~20x faster than [flamegraph.pl](https://github.com/brendangregg/FlameGraph/blob/master/flamegraph.pl).
 * [cargo-flamegraph](https://github.com/ferrous-systems/cargo-flamegraph) — Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3.
+* [hyperfine](https://github.com/sharkdp/hyperfine) — A command-line benchmarking tool.
 
+
+
+## Utilities
+
+* [dtool](https://github.com/guoxbin/dtool) — A command-line tool collection to assist development.
+* [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
 
 
 ## Tool Libraries
