@@ -65,6 +65,7 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 
 * [dtool](https://github.com/guoxbin/dtool) — A command-line tool collection to assist development.
 * [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
+* [ugdb](https://github.com/ftilde/ugdb) — An alternative TUI for gdb wrote in Rust.
 
 
 ## Tool Libraries
