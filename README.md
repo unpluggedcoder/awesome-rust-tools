@@ -29,6 +29,7 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 * [dutree](https://github.com/nachoparker/dutree) — A tool to analyze file system usage written in Rust.
 * [dua-cli](https://github.com/Byron/dua-cli) — A tool to conveniently learn about the disk usage of directories, fast!
 * [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) — A fast cd command that learns your habits.
 
 
 
@@ -50,6 +51,7 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 
 * [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
 * [starship](https://github.com/starship/starship) — ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! [https://starship.rs](https://starship.rs/)
+* [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator.
 
 
 
