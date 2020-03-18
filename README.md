@@ -8,10 +8,10 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
   - [Search](#search)
   - [Directory](#directory)
   - [File](#file)
-  - [Process](#process)
+  - [System Monitor](#system-monitor)
   - [Shell](#shell)
   - [Performance](#performance)
-  - [Utilities](#utilities)
+  - [Dev-Utilities](#dev-utilities)
   - [Tool Libraries](#tool-libraries)
 
 
@@ -40,10 +40,11 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 
 
 
-## Process
+## System Monitor
 
 * [ytop](https://github.com/cjbassi/ytop) — A TUI system monitor written in Rust.
 * [procs](https://github.com/dalance/procs) — **procs** is a replacement for `ps` written in [Rust](https://www.rust-lang.org/).
+* [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
 
 
 
@@ -63,11 +64,13 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 
 
 
-## Utilities
+## Dev-Utilities
 
 * [dtool](https://github.com/guoxbin/dtool) — A command-line tool collection to assist development.
 * [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
 * [ugdb](https://github.com/ftilde/ugdb) — An alternative TUI for gdb wrote in Rust.
+* [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
+* [git-absorb](https://github.com/tummychow/git-absorb) — git commit --fixup, but automatic.
 
 
 ## Tool Libraries
