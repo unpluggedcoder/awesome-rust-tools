@@ -71,6 +71,7 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 * [ugdb](https://github.com/ftilde/ugdb) — An alternative TUI for gdb wrote in Rust.
 * [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 * [git-absorb](https://github.com/tummychow/git-absorb) — git commit --fixup, but automatic.
+* [memory-profiler](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
 
 
 ## Tool Libraries
