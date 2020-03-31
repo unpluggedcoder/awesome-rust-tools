@@ -72,6 +72,7 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 * [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 * [git-absorb](https://github.com/tummychow/git-absorb) — git commit --fixup, but automatic.
 * [memory-profiler](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
+* [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
 
 
 ## Tool Libraries
