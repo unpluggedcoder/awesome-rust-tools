@@ -37,7 +37,7 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 
 * [bat](https://github.com/sharkdp/bat)— A `cat(1)` clone with wings.
 * [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
-
+* [intermodal](https://github.com/casey/intermodal) — Intermodal is a user-friendly and featureful command-line BitTorrent metainfo utility. The binary is called imdl and runs on Linux, Windows, and macOS.
 
 
 ## System Monitor
@@ -53,6 +53,7 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 * [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
 * [starship](https://github.com/starship/starship) — ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! [https://starship.rs](https://starship.rs/)
 * [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator.
+* [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
 
 
 
@@ -73,6 +74,7 @@ Harnish the power of Rust. Those fast productivity tools created by Rust.
 * [git-absorb](https://github.com/tummychow/git-absorb) — git commit --fixup, but automatic.
 * [memory-profiler](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
 * [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
+* [gitui](https://github.com/extrawurst/gitui) — Blazing fast terminal-ui for git written in rust.
 
 
 ## Tool Libraries
