@@ -76,6 +76,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
 * [gitui](https://github.com/extrawurst/gitui) — Blazing fast terminal-ui for git written in rust.
 * [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
+* [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 
 
 ## Tool Libraries
