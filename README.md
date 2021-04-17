@@ -12,6 +12,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
   - [Shell](#shell)
   - [Performance](#performance)
   - [Dev-Utilities](#dev-utilities)
+  - [Editor](#editor)
   - [Tool Libraries](#tool-libraries)
 
 
@@ -76,11 +77,16 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [memory-profiler](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
 * [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
 * [gitui](https://github.com/extrawurst/gitui) — Blazing fast terminal-ui for git written in rust.
-* [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
 * [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 * [fnm](https://github.com/Schniz/fnm) — 🚀 Fast and simple Node.js version manager, built in Rust.
 * [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
+
+
+## Editor
+
+* [gnvim](https://github.com/vhakulinen/gnvim) — GNvim, Neovim GUI aiming for rich code editing experience without any unnecessary web bloat.
 * [amp](https://github.com/jmacdonald/amp) — A text editor for your terminal. 
+* [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
 
 
 ## Tool Libraries
