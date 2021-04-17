@@ -19,6 +19,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 ## Search
 
 * [ripgrep](https://github.com/BurntSushi/ripgrep) — A line-oriented search tool that recursively searches your current directory for a regex pattern.
+* [MeiliSearch](https://github.com/meilisearch/MeiliSearch) — Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine.
 
 
 
