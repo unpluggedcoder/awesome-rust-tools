@@ -13,7 +13,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
   - [Performance](#performance)
   - [Dev-Utilities](#dev-utilities)
   - [Editor](#editor)
-  - [Tool Libraries](#tool-libraries)
+  - [Others](#others)
 
 
 
@@ -89,8 +89,10 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
 
 
-## Tool Libraries
+## Others
 
+* [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+* [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) — Unofficial Bitwarden compatible server written in Rust
 * [tui-rs](https://github.com/fdehau/tui-rs) — A [Rust](https://www.rust-lang.org/) library to build rich terminal user interfaces and dashboards.
 
 
