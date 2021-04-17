@@ -78,6 +78,8 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
 * [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 * [fnm](https://github.com/Schniz/fnm) — 🚀 Fast and simple Node.js version manager, built in Rust.
+* [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
+* [amp](https://github.com/jmacdonald/amp) — A text editor for your terminal. 
 
 
 ## Tool Libraries
