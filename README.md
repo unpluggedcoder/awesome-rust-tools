@@ -64,6 +64,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [inferno](https://github.com/jonhoo/inferno) — A Rust port of FlameGraph. 18x~20x faster than [flamegraph.pl](https://github.com/brendangregg/FlameGraph/blob/master/flamegraph.pl).
 * [cargo-flamegraph](https://github.com/ferrous-systems/cargo-flamegraph) — Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3.
 * [hyperfine](https://github.com/sharkdp/hyperfine) — A command-line benchmarking tool.
+* [py-spy](https://github.com/benfred/py-spy) — Sampling profiler for Python programs.
 
 
 
@@ -88,6 +89,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [gnvim](https://github.com/vhakulinen/gnvim) — GNvim, Neovim GUI aiming for rich code editing experience without any unnecessary web bloat.
 * [amp](https://github.com/jmacdonald/amp) — A text editor for your terminal. 
 * [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
+* [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
 
 
 ## Others
