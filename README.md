@@ -82,6 +82,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [fnm](https://github.com/Schniz/fnm) — 🚀 Fast and simple Node.js version manager, built in Rust.
 * [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
 * [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
+* [dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making.
 
 
 ## Editor
@@ -94,10 +95,12 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 
 ## Others
 
+* [coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils
 * [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 * [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) — Unofficial Bitwarden compatible server written in Rust
 * [tui-rs](https://github.com/fdehau/tui-rs) — A [Rust](https://www.rust-lang.org/) library to build rich terminal user interfaces and dashboards.
 * [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
+* [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
 
 
 Thanks these authors.
