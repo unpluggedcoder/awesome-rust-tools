@@ -9,7 +9,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
   - [Directory](#directory)
   - [File](#file)
   - [System Monitor](#system-monitor)
-  - [Shell](#shell)
+  - [Shell/Terminal](#shell)
   - [Performance](#performance)
   - [Dev-Utilities](#dev-utilities)
   - [Editor](#editor)
@@ -40,6 +40,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [bat](https://github.com/sharkdp/bat)— A `cat(1)` clone with wings.
 * [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
 * [intermodal](https://github.com/casey/intermodal) — Intermodal is a user-friendly and featureful command-line BitTorrent metainfo utility. The binary is called imdl and runs on Linux, Windows, and macOS.
+* [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
 
 
 ## System Monitor
@@ -50,12 +51,13 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 
 
 
-## Shell
+## Shell/Terminal
 
 * [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
 * [starship](https://github.com/starship/starship) — ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! [https://starship.rs](https://starship.rs/)
 * [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator.
 * [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
+* [wezterm](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 
 
 
