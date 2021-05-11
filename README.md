@@ -58,6 +58,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator.
 * [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
 * [wezterm](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
+* [atuin](https://github.com/ellie/atuin) — 🐢 Magical shell history.
 
 
 
@@ -85,6 +86,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
 * [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
 * [dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making.
+* [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
 
 
 ## Editor
@@ -103,6 +105,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [tui-rs](https://github.com/fdehau/tui-rs) — A [Rust](https://www.rust-lang.org/) library to build rich terminal user interfaces and dashboards.
 * [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 * [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
+* [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
 
 
 Thanks these authors.
