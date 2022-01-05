@@ -59,6 +59,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
 * [wezterm](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 * [atuin](https://github.com/ellie/atuin) — 🐢 Magical shell history.
+* [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
 
 
 
