@@ -88,6 +88,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
 * [dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making.
 * [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
+* [jless](https://github.com/PaulJuliusMartinez/jless) — jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. 
 
 
 ## Editor
