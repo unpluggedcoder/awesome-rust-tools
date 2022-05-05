@@ -6,7 +6,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 - [Awesome Rust Tools](#awesome-rust-tools)
   - [Table of contents](#table-of-contents)
   - [Search](#search)
-  - [Directory](#directory)
+  - [FileSystem](#filesystem)
   - [File](#file)
   - [System Monitor](#system-monitor)
   - [Shell/Terminal](#shell)
@@ -24,7 +24,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 
 
 
-## Directory
+## FileSystem
 
 * [broot](https://github.com/Canop/broot) — A new way to see and navigate directory trees.
 * [dust](https://github.com/bootandy/dust) — A more intuitive version of `du` in rust.
@@ -51,7 +51,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 
 
 
-## Shell/Terminal
+## Shell
 
 * [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
 * [starship](https://github.com/starship/starship) — ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! [https://starship.rs](https://starship.rs/)
