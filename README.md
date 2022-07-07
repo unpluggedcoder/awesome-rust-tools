@@ -60,6 +60,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [wezterm](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 * [atuin](https://github.com/ellie/atuin) — 🐢 Magical shell history.
 * [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
+* [just](https://github.com/casey/just) — 🤖 Just a command runner 
 
 
 
@@ -97,7 +98,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [amp](https://github.com/jmacdonald/amp) — A text editor for your terminal. 
 * [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
 * [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
-
+* [lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust.
 
 ## Others
 
