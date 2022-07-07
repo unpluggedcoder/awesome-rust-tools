@@ -60,7 +60,8 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [wezterm](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 * [atuin](https://github.com/ellie/atuin) — 🐢 Magical shell history.
 * [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
-* [just](https://github.com/casey/just) — 🤖 Just a command runner 
+* [just](https://github.com/casey/just) — 🤖 Just a command runner.
+* [zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included.
 
 
 
