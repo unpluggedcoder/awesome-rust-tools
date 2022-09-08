@@ -32,7 +32,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [dutree](https://github.com/nachoparker/dutree) — A tool to analyze file system usage written in Rust.
 * [dua-cli](https://github.com/Byron/dua-cli) — A tool to conveniently learn about the disk usage of directories, fast!
 * [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) — A fast cd command that learns your habits.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) — A smarter cd command. Supports all major shells.
 
 
 
@@ -92,6 +92,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making.
 * [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
 * [jless](https://github.com/PaulJuliusMartinez/jless) — jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. 
+* [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
 
 
 ## Editor
