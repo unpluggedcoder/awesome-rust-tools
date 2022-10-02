@@ -42,6 +42,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
 * [intermodal](https://github.com/casey/intermodal) — Intermodal is a user-friendly and featureful command-line BitTorrent metainfo utility. The binary is called imdl and runs on Linux, Windows, and macOS.
 * [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
+* [lemmeknow](https://github.com/swanandx/lemmeknow) — The fastest way to identify anything!
 
 
 ## System Monitor
