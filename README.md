@@ -95,6 +95,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [jless](https://github.com/PaulJuliusMartinez/jless) — jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. 
 * [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
 * [hurl](https://github.com/Orange-OpenSource/hurl) — Hurl, run and test HTTP requests with plain text.
+* [delta](https://github.com/dandavison/delta) — A syntax-highlighting pager for git, diff, and grep output.
 
 
 ## Editor
