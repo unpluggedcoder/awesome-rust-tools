@@ -94,6 +94,7 @@ Harnish the power of Rust. Those fast productivity tools created by using Rust.
 * [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
 * [jless](https://github.com/PaulJuliusMartinez/jless) — jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. 
 * [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
+* [hurl](https://github.com/Orange-OpenSource/hurl) — Hurl, run and test HTTP requests with plain text.
 
 
 ## Editor
