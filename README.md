@@ -1,5 +1,5 @@
 # Awesome Rust Tools
-Harnish the power of Rust. Those fast productivity tools created by using Rust.
+Harness the power of Rust. Those fast productivity tools created by using Rust.
 
 ## Table of contents
 
