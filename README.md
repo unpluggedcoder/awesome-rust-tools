@@ -50,7 +50,7 @@ Harness the power of Rust. Those fast productivity tools created by using Rust.
 * [ytop](https://github.com/cjbassi/ytop) — A TUI system monitor written in Rust.
 * [procs](https://github.com/dalance/procs) — **procs** is a replacement for `ps` written in [Rust](https://www.rust-lang.org/).
 * [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
-
+* [RustScan](https://github.com/RustScan/RustScan) —  🤖 The Modern Port Scanner 🤖 .
 
 
 ## Shell
