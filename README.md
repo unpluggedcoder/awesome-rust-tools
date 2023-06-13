@@ -98,7 +98,6 @@ Harness the power of Rust. Those fast productivity tools created by using Rust.
 * [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
 * [hurl](https://github.com/Orange-OpenSource/hurl) — Hurl, run and test HTTP requests with plain text.
 * [delta](https://github.com/dandavison/delta) — A syntax-highlighting pager for git, diff, and grep output.
-* [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
 
 
 ## Editor
