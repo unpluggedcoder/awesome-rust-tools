@@ -108,6 +108,7 @@ Harness the power of Rust. Those fast productivity tools created by using Rust.
 * [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
 * [lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust.
 * [rnote](https://github.com/flxzt/rnote) — Sketch and take handwritten notes.
+* [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) — Your journal app if you live in a terminal.
 
 ## Others
 
