@@ -66,7 +66,8 @@ Harness the power of Rust. Those fast productivity tools created by using Rust.
 * [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
 * [just](https://github.com/casey/just) — 🤖 Just a command runner.
 * [zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included.
-* [mprocs](https://github.com/pvolok/mprocs) —  Run multiple commands in parallel.
+* [mprocs](https://github.com/pvolok/mprocs) — Run multiple commands in parallel.
+* [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) — Fast command line app in rust/tokio to execute commands in parallel. Similar interface to GNU parallel or xargs.
 
 
 
