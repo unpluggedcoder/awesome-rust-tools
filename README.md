@@ -66,6 +66,7 @@ Harness the power of Rust. Those fast productivity tools created by using Rust.
 * [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
 * [just](https://github.com/casey/just) — 🤖 Just a command runner.
 * [zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included.
+* [mprocs](https://github.com/pvolok/mprocs) —  Run multiple commands in parallel.
 
 
 
