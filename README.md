@@ -1,5 +1,5 @@
 # Awesome Rust Tools
-Harness the power of Rust. Those fast productivity tools created by using Rust.
+Harness the power of Rust. Those fast productivity tools based on Rust.
 
 ## Table of contents
 
@@ -88,7 +88,7 @@ Harness the power of Rust. Those fast productivity tools created by using Rust.
 * [ugdb](https://github.com/ftilde/ugdb) — An alternative TUI for gdb wrote in Rust.
 * [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 * [git-absorb](https://github.com/tummychow/git-absorb) — git commit --fixup, but automatic.
-* [memory-profiler](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
+* [bytehound](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
 * [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
 * [gitui](https://github.com/extrawurst/gitui) — Blazing fast terminal-ui for git written in rust.
 * [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
