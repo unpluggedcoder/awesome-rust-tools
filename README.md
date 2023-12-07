@@ -45,6 +45,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [intermodal](https://github.com/casey/intermodal) — Intermodal is a user-friendly and featureful command-line BitTorrent metainfo utility. The binary is called imdl and runs on Linux, Windows, and macOS.
 * [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
 * [lemmeknow](https://github.com/swanandx/lemmeknow) — The fastest way to identify anything!
+* [ouch](https://github.com/ouch-org/ouch) — Painless compression and decompression in the terminal.
+* [xcp](https://github.com/tarka/xcp) —  An extended `cp`.
 
 
 ## System Monitor
@@ -103,6 +105,10 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [hurl](https://github.com/Orange-OpenSource/hurl) — Hurl, run and test HTTP requests with plain text.
 * [delta](https://github.com/dandavison/delta) — A syntax-highlighting pager for git, diff, and grep output.
 * [lurk](https://github.com/JakWai01/lurk) — A pretty (simple) alternative to strace.
+* [steel](https://github.com/mattwparas/steel) — An embedded scheme interpreter in Rust.
+* [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of tldr in Rust.
+* [dotter](https://github.com/SuperCuber/dotter) — A dotfile manager and templater written in rust 🦀.
+* [jaq](https://github.com/01mf02/jaq) — A jq clone focussed on correctness, speed, and simplicity.
 
 
 ## Editor
