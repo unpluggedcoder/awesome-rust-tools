@@ -57,6 +57,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [RustScan](https://github.com/RustScan/RustScan) — 🤖 The Modern Port Scanner 🤖 .
 * [sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease.
 * [bandwhich](https://github.com/imsnif/bandwhich) — Terminal bandwidth utilization tool.
+* [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
 
 
 ## Shell
@@ -130,6 +131,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 * [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
 * [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
+* [fend](https://github.com/printfn/fend) — Arbitrary-precision unit-aware calculator.
 
 
 Thanks these authors.
