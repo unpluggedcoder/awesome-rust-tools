@@ -35,6 +35,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [dua-cli](https://github.com/Byron/dua-cli) — A tool to conveniently learn about the disk usage of directories, fast!
 * [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A smarter cd command. Supports all major shells.
+* [fselect](https://github.com/jhspetersson/fselect) — Find files with SQL-like queries.
 
 
 
@@ -46,7 +47,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
 * [lemmeknow](https://github.com/swanandx/lemmeknow) — The fastest way to identify anything!
 * [ouch](https://github.com/ouch-org/ouch) — Painless compression and decompression in the terminal.
-* [xcp](https://github.com/tarka/xcp) —  An extended `cp`.
+* [xcp](https://github.com/tarka/xcp) — An extended `cp`.
+* [csvlens](https://github.com/YS-L/csvlens) —  Command line csv viewer.
 
 
 ## System Monitor
