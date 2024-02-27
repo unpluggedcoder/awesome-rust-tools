@@ -36,6 +36,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
 * [zoxide](https://github.com/ajeetdsouza/zoxide) — A smarter cd command. Supports all major shells.
 * [fselect](https://github.com/jhspetersson/fselect) — Find files with SQL-like queries.
+* [felix](https://github.com/kyoheiu/felix) – tui file manager with vim-like key mapping.
+* [lscolors](https://github.com/sharkdp/lscolors) – A Rust library and tool to colorize paths using LS_COLORS.
 
 
 
@@ -60,6 +62,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease.
 * [bandwhich](https://github.com/imsnif/bandwhich) — Terminal bandwidth utilization tool.
 * [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
+* [bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs.
+* [ytop(Archived)](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
 
 
 ## Shell
@@ -75,6 +79,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included.
 * [mprocs](https://github.com/pvolok/mprocs) — Run multiple commands in parallel.
 * [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) — Fast command line app in rust/tokio to execute commands in parallel. Similar interface to GNU parallel or xargs.
+* [atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history.
+* [shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers.
 
 
 
@@ -112,6 +118,9 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of tldr in Rust.
 * [dotter](https://github.com/SuperCuber/dotter) — A dotfile manager and templater written in rust 🦀.
 * [jaq](https://github.com/01mf02/jaq) — A jq clone focussed on correctness, speed, and simplicity.
+* [onefetch](https://github.com/o2sh/onefetch) –  Command-line Git information tool.
+* [eva](https://github.com/nerdypepper/eva) – A calculator REPL, similar to bc(1).
+* [gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐.
 
 
 ## Editor
