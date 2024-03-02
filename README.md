@@ -64,6 +64,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
 * [bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs.
 * [ytop(Archived)](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
+* [netscanner](https://github.com/Chleba/netscanner) - All-in-one Network scanner.
 
 
 ## Shell
