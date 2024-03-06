@@ -144,6 +144,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 * [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
 * [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
 * [fend](https://github.com/printfn/fend) — Arbitrary-precision unit-aware calculator.
+* [poketex](https://github.com/ckaznable/poketex) – Simple Pokedex based on TUI(Terminal User Interface).
 
 
 Thanks these authors.
