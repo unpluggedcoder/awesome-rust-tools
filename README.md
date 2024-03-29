@@ -10,7 +10,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
   - [FileSystem](#filesystem)
   - [File](#file)
   - [System Monitor](#system-monitor)
-  - [Shell/Terminal](#shell)
+  - [Shell/Terminal](#shellterminal)
   - [Performance](#performance)
   - [Dev-Utilities](#dev-utilities)
   - [Editor](#editor)
@@ -60,7 +60,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [ytop(Archived)](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
 - [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
 
-## Shell
+## Shell/Terminal
 
 - [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator.
 - [atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history.
@@ -69,6 +69,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [mprocs](https://github.com/pvolok/mprocs) — Run multiple commands in parallel.
 - [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
 - [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
+- [rio](https://github.com/raphamorim/rio) — A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) — Fast command line app in rust/tokio to execute commands in parallel. Similar interface to GNU parallel or xargs.
 - [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
 - [shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers.
