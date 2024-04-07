@@ -64,7 +64,6 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 - [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator.
 - [atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history.
-- [atuin](https://github.com/ellie/atuin) — 🐢 Magical shell history.
 - [just](https://github.com/casey/just) — 🤖 Just a command runner.
 - [mprocs](https://github.com/pvolok/mprocs) — Run multiple commands in parallel.
 - [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
