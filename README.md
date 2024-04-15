@@ -23,6 +23,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) — Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — A line-oriented search tool that recursively searches your current directory for a regex pattern.
 - [skim](https://github.com/lotabout/skim) — Fuzzy Finder in rust!
+- [repgrep](https://github.com/acheronfail/repgrep) — An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 
 ## FileSystem
 
@@ -59,6 +60,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
 - [ytop(Archived)](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
 - [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
+- [rsftch](https://github.com/charklie/rsftch) — Lightning fast hardware fetch written in rust.
+- [diskonaut](https://github.com/imsnif/diskonaut) — Terminal disk space navigator 🔭 .
 
 ## Shell/Terminal
 
@@ -133,5 +136,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 - [tui-rs](https://github.com/fdehau/tui-rs) — A [Rust](https://www.rust-lang.org/) library to build rich terminal user interfaces and dashboards.
 - [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
 
 Thanks these authors.
