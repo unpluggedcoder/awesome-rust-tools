@@ -119,6 +119,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 - [amp](https://github.com/jmacdonald/amp) — A text editor for your terminal.
 - [gnvim](https://github.com/vhakulinen/gnvim) — GNvim, Neovim GUI aiming for rich code editing experience without any unnecessary web bloat.
+- [iota](https://github.com/gchp/iota) — A terminal-based text editor written in Rust.
 - [lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust.
 - [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
 - [rnote](https://github.com/flxzt/rnote) — Sketch and take handwritten notes.
