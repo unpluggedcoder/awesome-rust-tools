@@ -102,11 +102,14 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 - [hurl](https://github.com/Orange-OpenSource/hurl) — Hurl, run and test HTTP requests with plain text.
 - [jaq](https://github.com/01mf02/jaq) — A jq clone focussed on correctness, speed, and simplicity.
+- [jj](https://github.com/martinvonz/jj) — A Git-compatible VCS that is both simple and powerful.
 - [jless](https://github.com/PaulJuliusMartinez/jless) — jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [lurk](https://github.com/JakWai01/lurk) — A pretty (simple) alternative to strace.
+- [mask](https://github.com/jacobdeichert/mask) — 🎭 A CLI task runner defined by a simple markdown file.
 - [onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool.
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
+- [rust_kanban](https://github.com/yashs662/rust_kanban) — A kanban board for the terminal built with ❤️ in Rust.
 - [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
 - [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
 - [steel](https://github.com/mattwparas/steel) — An embedded scheme interpreter in Rust.
@@ -125,6 +128,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rnote](https://github.com/flxzt/rnote) — Sketch and take handwritten notes.
 - [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) — Your journal app if you live in a terminal.
 - [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
+- [yazi](https://github.com/sxyazi/yazi) — 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ## Others
 
@@ -136,6 +140,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 - [sudo.rs](https://github.com/memorysafety/sudo-rs) — A safety oriented and memory safe implementation of sudo and su written in Rust.
+- [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) — The distributed financial transactions database designed for mission critical safety and performance.
 - [tui-rs](https://github.com/fdehau/tui-rs) — A [Rust](https://www.rust-lang.org/) library to build rich terminal user interfaces and dashboards.
 - [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
