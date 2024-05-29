@@ -132,8 +132,9 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 ## Others
 
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) — Unofficial Bitwarden compatible server written in Rust
-- [coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils
+- [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line.
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) — Unofficial Bitwarden compatible server written in Rust.
+- [coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils.
 - [fend](https://github.com/printfn/fend) — Arbitrary-precision unit-aware calculator.
 - [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
 - [poketex](https://github.com/ckaznable/poketex) – Simple Pokedex based on TUI(Terminal User Interface).
