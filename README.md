@@ -62,6 +62,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
 - [rsftch](https://github.com/charklie/rsftch) — Lightning fast hardware fetch written in rust.
 - [diskonaut](https://github.com/imsnif/diskonaut) — Terminal disk space navigator 🔭 .
+- [macmon](https://github.com/vladkens/macmon) - Sudoless performance / power monitoring for Apple Silicon processors.
 
 ## Shell/Terminal
 
