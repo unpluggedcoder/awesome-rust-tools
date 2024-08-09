@@ -28,29 +28,36 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 ## FileSystem
 
 - [broot](https://github.com/Canop/broot) — A new way to see and navigate directory trees.
+- [diskus](https://github.com/sharkdp/diskus) — A minimal, fast alternative to 'du -sh'.
 - [dua-cli](https://github.com/Byron/dua-cli) — A tool to conveniently learn about the disk usage of directories, fast!
 - [dust](https://github.com/bootandy/dust) — A more intuitive version of `du` in rust.
 - [dutree](https://github.com/nachoparker/dutree) — A tool to analyze file system usage written in Rust.
+- [eza](https://github.com/eza-community/eza) — A modern alternative to ls.
 - [felix](https://github.com/kyoheiu/felix) – tui file manager with vim-like key mapping.
 - [fselect](https://github.com/jhspetersson/fselect) — Find files with SQL-like queries.
 - [lscolors](https://github.com/sharkdp/lscolors) – A Rust library and tool to colorize paths using LS_COLORS.
 - [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
+- [rip](https://github.com/nivekuil/rip) — A safe and ergonomic alternative to rm.
+- [spacedrive](https://github.com/spacedriveapp/spacedrive) — Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) — A smarter cd command. Supports all major shells.
 
 ## File
 
 - [bat](https://github.com/sharkdp/bat)— A `cat(1)` clone with wings.
 - [csvlens](https://github.com/YS-L/csvlens) — Command line csv viewer.
+- [hex](https://github.com/sitkevij/hex) — 🔮 Futuristic take on hexdump, made in Rust.
 - [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
 - [intermodal](https://github.com/casey/intermodal) — Intermodal is a user-friendly and featureful command-line BitTorrent metainfo utility. The binary is called imdl and runs on Linux, Windows, and macOS.
 - [lemmeknow](https://github.com/swanandx/lemmeknow) — The fastest way to identify anything!
 - [ouch](https://github.com/ouch-org/ouch) — Painless compression and decompression in the terminal.
+- [ruplacer](https://github.com/your-tools/ruplacer) — Find and replace text in source files.
 - [xcp](https://github.com/tarka/xcp) — An extended `cp`.
 - [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
 
 ## System Monitor
 
 - [bandwhich](https://github.com/imsnif/bandwhich) — Terminal bandwidth utilization tool.
+- [below](https://github.com/facebookincubator/below) — A time traveling resource monitor for modern Linux systems.
 - [bottom](https://github.com/ClementTsang/bottom) — A customizable cross-platform graphical process/system monitor for the terminal.
 - [bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs.
 - [netscanner](https://github.com/Chleba/netscanner) - All-in-one Network scanner.
@@ -96,6 +103,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [dtool](https://github.com/guoxbin/dtool) — A command-line tool collection to assist development.
 - [eva](https://github.com/nerdypepper/eva) – A calculator REPL, similar to bc(1).
 - [fnm](https://github.com/Schniz/fnm) — 🚀 Fast and simple Node.js version manager, built in Rust.
+- [fw](https://github.com/brocode/fw) — Workspace productivity booster.
 - [git-absorb](https://github.com/tummychow/git-absorb) — git commit --fixup, but automatic.
 - [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
 - [gitui](https://github.com/extrawurst/gitui) — Blazing fast terminal-ui for git written in rust.
@@ -113,6 +121,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rust_kanban](https://github.com/yashs662/rust_kanban) — A kanban board for the terminal built with ❤️ in Rust.
 - [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
 - [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
+- [slumber](https://github.com/LucasPickering/slumber) — Terminal-based HTTP/REST client.
 - [steel](https://github.com/mattwparas/steel) — An embedded scheme interpreter in Rust.
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
 - [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of tldr in Rust.
