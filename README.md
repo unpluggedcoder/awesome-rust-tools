@@ -139,6 +139,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) — Your journal app if you live in a terminal.
 - [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
 - [yazi](https://github.com/sxyazi/yazi) — 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [zed](https://github.com/zed-industries/zed) — Code at the speed of thought.
 
 ## Others
 
