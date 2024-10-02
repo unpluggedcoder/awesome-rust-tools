@@ -55,6 +55,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [ruplacer](https://github.com/your-tools/ruplacer) — Find and replace text in source files.
 - [xcp](https://github.com/tarka/xcp) — An extended `cp`.
 - [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
+- [hck](https://github.com/sstadick/hck) — A sharp cut(1) clone.
+- [runiq](https://github.com/whitfin/runiq) — An efficient way to filter duplicate lines from input, à la uniq.
 
 ## System Monitor
 
@@ -70,6 +72,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [ytop(Archived)](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
 - [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
 - [rsftch](https://github.com/charklie/rsftch) — Lightning fast hardware fetch written in rust.
+- [macchina](https://github.com/Macchina-CLI/macchina) — A system information frontend with an emphasis on performance.
 - [diskonaut](https://github.com/imsnif/diskonaut) — Terminal disk space navigator 🔭 .
 - [macmon](https://github.com/vladkens/macmon) - Sudoless performance / power monitoring for Apple Silicon processors.
 
@@ -119,6 +122,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [mask](https://github.com/jacobdeichert/mask) — 🎭 A CLI task runner defined by a simple markdown file.
 - [onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool.
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
+- [tinty](https://github.com/tinted-theming/tinty) — A base16 and base24 color scheme manager.
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
 - [rust_kanban](https://github.com/yashs662/rust_kanban) — A kanban board for the terminal built with ❤️ in Rust.
 - [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
@@ -137,6 +141,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [iota](https://github.com/gchp/iota) — A terminal-based text editor written in Rust.
 - [lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust.
 - [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
+- [helix](https://github.com/helix-editor/helix) — A post-modern modal text editor.
 - [rnote](https://github.com/flxzt/rnote) — Sketch and take handwritten notes.
 - [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) — Your journal app if you live in a terminal.
 - [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
