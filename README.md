@@ -37,6 +37,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [eza](https://github.com/eza-community/eza) — A modern alternative to ls.
 - [felix](https://github.com/kyoheiu/felix) – tui file manager with vim-like key mapping.
 - [fselect](https://github.com/jhspetersson/fselect) — Find files with SQL-like queries.
+- [httm](https://github.com/kimono-koans/httm) – Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!).
 - [lscolors](https://github.com/sharkdp/lscolors) – A Rust library and tool to colorize paths using LS_COLORS.
 - [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
 - [rip](https://github.com/nivekuil/rip) — A safe and ergonomic alternative to rm.
@@ -57,6 +58,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
 - [hck](https://github.com/sstadick/hck) — A sharp cut(1) clone.
 - [runiq](https://github.com/whitfin/runiq) — An efficient way to filter duplicate lines from input, à la uniq.
+- [termscp](https://github.com/veeso/termscp) – 🖥 A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
 
 ## System Monitor
 
@@ -75,6 +77,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [macchina](https://github.com/Macchina-CLI/macchina) — A system information frontend with an emphasis on performance.
 - [diskonaut](https://github.com/imsnif/diskonaut) — Terminal disk space navigator 🔭 .
 - [macmon](https://github.com/vladkens/macmon) - Sudoless performance / power monitoring for Apple Silicon processors.
+- [pik](https://github.com/jacek-kurlit/pik) – Process Interactive Kill.
 
 ## Shell/Terminal
 
@@ -85,6 +88,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [mprocs](https://github.com/pvolok/mprocs) — Run multiple commands in parallel.
 - [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
 - [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
+- [rargs](https://github.com/lotabout/rargs) – Rargs is kind of xargs + awk with pattern-matching support.
 - [rio](https://github.com/raphamorim/rio) — A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
 - [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) — Fast command line app in rust/tokio to execute commands in parallel. Similar interface to GNU parallel or xargs.
 - [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
@@ -121,14 +125,17 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [jless](https://github.com/PaulJuliusMartinez/jless) — jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [lurk](https://github.com/JakWai01/lurk) — A pretty (simple) alternative to strace.
 - [mask](https://github.com/jacobdeichert/mask) — 🎭 A CLI task runner defined by a simple markdown file.
+- [mise](https://github.com/jdx/mise) –  dev tools, env vars, task runner.
 - [onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool.
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
 - [tinty](https://github.com/tinted-theming/tinty) — A base16 and base24 color scheme manager.
+- [riff](https://github.com/walles/riff) – A diff filter highlighting which line parts have changed.
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
 - [rust_kanban](https://github.com/yashs662/rust_kanban) — A kanban board for the terminal built with ❤️ in Rust.
 - [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
 - [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
 - [slumber](https://github.com/LucasPickering/slumber) — Terminal-based HTTP/REST client.
+- [sqleibniz](https://github.com/xNaCly/sqleibniz) – LSP and analysis cli for sql. Check for valid syntax, semantics and perform dynamic analysis.
 - [steel](https://github.com/mattwparas/steel) — An embedded scheme interpreter in Rust.
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
 - [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of tldr in Rust.
@@ -165,5 +172,6 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
+- [youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust.
 
 Thanks these authors.
