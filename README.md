@@ -42,6 +42,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
 - [rip](https://github.com/nivekuil/rip) — A safe and ergonomic alternative to rm.
 - [spacedrive](https://github.com/spacedriveapp/spacedrive) — Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [trashy](https://github.com/oberblastmeister/trashy) — a cli system trash manager, alternative to rm and trash-cli.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) — A smarter cd command. Supports all major shells.
 
 ## File
