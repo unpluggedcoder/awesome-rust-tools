@@ -21,16 +21,16 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to 'find'.
 - [igrep](https://github.com/konradsz/igrep) — Interactive Grep. Runs grep (ripgrep's library) in the background, allows interactively pick its results and open selected match in text editor of choice (vim by default).
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) — Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine.
+- [repgrep](https://github.com/acheronfail/repgrep) — An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — A line-oriented search tool that recursively searches your current directory for a regex pattern.
 - [skim](https://github.com/lotabout/skim) — Fuzzy Finder in rust!
 - [scout](https://github.com/jhbabon/scout) — Your friendly fuzzy finder.
 - [sweep-rs](https://github.com/aslpavel/sweep-rs) — Sweep is a tool for interactive search through a list of entries. It is inspired by fzf.
-- [repgrep](https://github.com/acheronfail/repgrep) — An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 
 ## FileSystem
 
-- [broot](https://github.com/Canop/broot) — A new way to see and navigate directory trees.
 - [diskus](https://github.com/sharkdp/diskus) — A minimal, fast alternative to 'du -sh'.
+- [broot](https://github.com/Canop/broot) — A new way to see and navigate directory trees.
 - [dua-cli](https://github.com/Byron/dua-cli) — A tool to conveniently learn about the disk usage of directories, fast!
 - [dust](https://github.com/bootandy/dust) — A more intuitive version of `du` in rust.
 - [dutree](https://github.com/nachoparker/dutree) — A tool to analyze file system usage written in Rust.
@@ -42,23 +42,24 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
 - [rip](https://github.com/nivekuil/rip) — A safe and ergonomic alternative to rm.
 - [spacedrive](https://github.com/spacedriveapp/spacedrive) — Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [trashy](https://github.com/oberblastmeister/trashy) — a cli system trash manager, alternative to rm and trash-cli.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) — A smarter cd command. Supports all major shells.
 
 ## File
 
 - [bat](https://github.com/sharkdp/bat)— A `cat(1)` clone with wings.
 - [csvlens](https://github.com/YS-L/csvlens) — Command line csv viewer.
+- [hck](https://github.com/sstadick/hck) — A sharp cut(1) clone.
 - [hex](https://github.com/sitkevij/hex) — 🔮 Futuristic take on hexdump, made in Rust.
 - [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
 - [intermodal](https://github.com/casey/intermodal) — Intermodal is a user-friendly and featureful command-line BitTorrent metainfo utility. The binary is called imdl and runs on Linux, Windows, and macOS.
 - [lemmeknow](https://github.com/swanandx/lemmeknow) — The fastest way to identify anything!
 - [ouch](https://github.com/ouch-org/ouch) — Painless compression and decompression in the terminal.
+- [runiq](https://github.com/whitfin/runiq) — An efficient way to filter duplicate lines from input, à la uniq.
 - [ruplacer](https://github.com/your-tools/ruplacer) — Find and replace text in source files.
+- [termscp](https://github.com/veeso/termscp) – 🖥 A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
 - [xcp](https://github.com/tarka/xcp) — An extended `cp`.
 - [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
-- [hck](https://github.com/sstadick/hck) — A sharp cut(1) clone.
-- [runiq](https://github.com/whitfin/runiq) — An efficient way to filter duplicate lines from input, à la uniq.
-- [termscp](https://github.com/veeso/termscp) – 🖥 A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
 
 ## System Monitor
 
@@ -66,18 +67,18 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [below](https://github.com/facebookincubator/below) — A time traveling resource monitor for modern Linux systems.
 - [bottom](https://github.com/ClementTsang/bottom) — A customizable cross-platform graphical process/system monitor for the terminal.
 - [bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs.
+- [diskonaut](https://github.com/imsnif/diskonaut) — Terminal disk space navigator 🔭 .
 - [netscanner](https://github.com/Chleba/netscanner) - All-in-one Network scanner.
+- [macchina](https://github.com/Macchina-CLI/macchina) — A system information frontend with an emphasis on performance.
+- [macmon](https://github.com/vladkens/macmon) - Sudoless performance / power monitoring for Apple Silicon processors.
+- [pik](https://github.com/jacek-kurlit/pik) – Process Interactive Kill.
 - [procs](https://github.com/dalance/procs) — **procs** is a replacement for `ps` written in [Rust](https://www.rust-lang.org/).
+- [rsftch](https://github.com/charklie/rsftch) — Lightning fast hardware fetch written in rust.
 - [RustScan](https://github.com/RustScan/RustScan) — 🤖 The Modern Port Scanner 🤖 .
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease.
 - [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
 - [ytop(Archived)](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
 - [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
-- [rsftch](https://github.com/charklie/rsftch) — Lightning fast hardware fetch written in rust.
-- [macchina](https://github.com/Macchina-CLI/macchina) — A system information frontend with an emphasis on performance.
-- [diskonaut](https://github.com/imsnif/diskonaut) — Terminal disk space navigator 🔭 .
-- [macmon](https://github.com/vladkens/macmon) - Sudoless performance / power monitoring for Apple Silicon processors.
-- [pik](https://github.com/jacek-kurlit/pik) – Process Interactive Kill.
 
 ## Shell/Terminal
 
