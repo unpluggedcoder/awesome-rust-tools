@@ -129,6 +129,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [mise](https://github.com/jdx/mise) –  dev tools, env vars, task runner.
 - [onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool.
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
+- [qsv](https://github.com/dathere/qsv) — Blazing-fast Data-Wrangling toolkit.
 - [riff](https://github.com/walles/riff) – A diff filter highlighting which line parts have changed.
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
 - [rust_kanban](https://github.com/yashs662/rust_kanban) — A kanban board for the terminal built with ❤️ in Rust.
