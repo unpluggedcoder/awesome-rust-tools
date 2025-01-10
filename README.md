@@ -129,7 +129,6 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [mise](https://github.com/jdx/mise) –  dev tools, env vars, task runner.
 - [onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool.
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
-- [tinty](https://github.com/tinted-theming/tinty) — A base16 and base24 color scheme manager.
 - [riff](https://github.com/walles/riff) – A diff filter highlighting which line parts have changed.
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
 - [rust_kanban](https://github.com/yashs662/rust_kanban) — A kanban board for the terminal built with ❤️ in Rust.
@@ -140,6 +139,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [steel](https://github.com/mattwparas/steel) — An embedded scheme interpreter in Rust.
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
 - [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of tldr in Rust.
+- [tinty](https://github.com/tinted-theming/tinty) — A base16 and base24 color scheme manager.
 - [ugdb](https://github.com/ftilde/ugdb) — An alternative TUI for gdb wrote in Rust.
 - [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 
@@ -147,10 +147,10 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 - [amp](https://github.com/jmacdonald/amp) — A text editor for your terminal.
 - [gnvim](https://github.com/vhakulinen/gnvim) — GNvim, Neovim GUI aiming for rich code editing experience without any unnecessary web bloat.
+- [helix](https://github.com/helix-editor/helix) — A post-modern modal text editor.
 - [iota](https://github.com/gchp/iota) — A terminal-based text editor written in Rust.
 - [lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust.
 - [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
-- [helix](https://github.com/helix-editor/helix) — A post-modern modal text editor.
 - [rnote](https://github.com/flxzt/rnote) — Sketch and take handwritten notes.
 - [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) — Your journal app if you live in a terminal.
 - [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
@@ -164,15 +164,15 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils.
 - [fend](https://github.com/printfn/fend) — Arbitrary-precision unit-aware calculator.
 - [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
+- [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [poketex](https://github.com/ckaznable/poketex) – Simple Pokedex based on TUI(Terminal User Interface).
 - [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 - [sudo.rs](https://github.com/memorysafety/sudo-rs) — A safety oriented and memory safe implementation of sudo and su written in Rust.
 - [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) — The distributed financial transactions database designed for mission critical safety and performance.
 - [tui-rs](https://github.com/fdehau/tui-rs) — A [Rust](https://www.rust-lang.org/) library to build rich terminal user interfaces and dashboards.
-- [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
-- [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
 - [youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust.
+- [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
+- [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 
 Thanks these authors.
