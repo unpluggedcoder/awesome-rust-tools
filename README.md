@@ -166,6 +166,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [fend](https://github.com/printfn/fend) — Arbitrary-precision unit-aware calculator.
 - [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
 - [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [md-tui](https://github.com/henriklovhaug/md-tui) - A TUI application for viewing markdown files.
+- [see](https://github.com/guilhermeprokisch/see) - A file visualization tool for terminal, offering advanced code viewing capabilities, Markdown rendering, and more. It provides syntax highlighting, emoji support, and image rendering capabilities, offering a visually appealing way to view various file types directly in your console.
 - [poketex](https://github.com/ckaznable/poketex) – Simple Pokedex based on TUI(Terminal User Interface).
 - [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
