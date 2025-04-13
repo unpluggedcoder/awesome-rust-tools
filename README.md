@@ -169,11 +169,11 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - A TUI application for viewing markdown files.
 - [see](https://github.com/guilhermeprokisch/see) - A file visualization tool for terminal, offering advanced code viewing capabilities, Markdown rendering, and more. It provides syntax highlighting, emoji support, and image rendering capabilities, offering a visually appealing way to view various file types directly in your console.
 - [poketex](https://github.com/ckaznable/poketex) – Simple Pokedex based on TUI(Terminal User Interface).
+- [ratatui](https://github.com/ratatui/ratatui) — A Rust crate for cooking up terminal user interfaces (TUIs).
 - [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 - [sudo.rs](https://github.com/memorysafety/sudo-rs) — A safety oriented and memory safe implementation of sudo and su written in Rust.
 - [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) — The distributed financial transactions database designed for mission critical safety and performance.
-- [tui-rs](https://github.com/fdehau/tui-rs) — A [Rust](https://www.rust-lang.org/) library to build rich terminal user interfaces and dashboards.
 - [youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust.
 - [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
 - [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
