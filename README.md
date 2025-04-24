@@ -55,6 +55,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
 - [intermodal](https://github.com/casey/intermodal) — Intermodal is a user-friendly and featureful command-line BitTorrent metainfo utility. The binary is called imdl and runs on Linux, Windows, and macOS.
 - [lemmeknow](https://github.com/swanandx/lemmeknow) — The fastest way to identify anything!
+- [Oculante](https://github.com/woelper/oculante) — A fast and simple image viewer / editor for many operating systems. 
 - [ouch](https://github.com/ouch-org/ouch) — Painless compression and decompression in the terminal.
 - [runiq](https://github.com/whitfin/runiq) — An efficient way to filter duplicate lines from input, à la uniq.
 - [ruplacer](https://github.com/your-tools/ruplacer) — Find and replace text in source files.
