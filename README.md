@@ -23,6 +23,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) — Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine.
 - [repgrep](https://github.com/acheronfail/repgrep) — An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — A line-oriented search tool that recursively searches your current directory for a regex pattern.
+- [television](https://github.com/alexpasmantier/television) — General purpose fuzzy finder TUI.
 - [skim](https://github.com/lotabout/skim) — Fuzzy Finder in rust!
 - [scout](https://github.com/jhbabon/scout) — Your friendly fuzzy finder.
 - [sweep-rs](https://github.com/aslpavel/sweep-rs) — Sweep is a tool for interactive search through a list of entries. It is inspired by fzf.
