@@ -23,6 +23,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) — Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine.
 - [repgrep](https://github.com/acheronfail/repgrep) — An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — A line-oriented search tool that recursively searches your current directory for a regex pattern.
+- [television](https://github.com/alexpasmantier/television) — General purpose fuzzy finder TUI.
 - [skim](https://github.com/lotabout/skim) — Fuzzy Finder in rust!
 - [scout](https://github.com/jhbabon/scout) — Your friendly fuzzy finder.
 - [sweep-rs](https://github.com/aslpavel/sweep-rs) — Sweep is a tool for interactive search through a list of entries. It is inspired by fzf.
@@ -54,6 +55,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
 - [intermodal](https://github.com/casey/intermodal) — Intermodal is a user-friendly and featureful command-line BitTorrent metainfo utility. The binary is called imdl and runs on Linux, Windows, and macOS.
 - [lemmeknow](https://github.com/swanandx/lemmeknow) — The fastest way to identify anything!
+- [Oculante](https://github.com/woelper/oculante) — A fast and simple image viewer / editor for many operating systems. 
 - [ouch](https://github.com/ouch-org/ouch) — Painless compression and decompression in the terminal.
 - [runiq](https://github.com/whitfin/runiq) — An efficient way to filter duplicate lines from input, à la uniq.
 - [ruplacer](https://github.com/your-tools/ruplacer) — Find and replace text in source files.
@@ -85,6 +87,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator.
 - [atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history.
 - [createnv](https://github.com/cuducos/createnv) - 🧞‍♀️Automagically creates .env files.
+- [handlr-regex](https://github.com/Anomalocaridid/handlr-regex) — A fork of `handlr` an `xdg-utils` alternative.
 - [just](https://github.com/casey/just) — 🤖 Just a command runner.
 - [mprocs](https://github.com/pvolok/mprocs) — Run multiple commands in parallel.
 - [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
