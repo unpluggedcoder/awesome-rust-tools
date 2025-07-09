@@ -44,6 +44,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rip](https://github.com/nivekuil/rip) — A safe and ergonomic alternative to rm.
 - [spacedrive](https://github.com/spacedriveapp/spacedrive) — Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [trashy](https://github.com/oberblastmeister/trashy) — a cli system trash manager, alternative to rm and trash-cli.
+- [yazi](https://github.com/sxyazi/yazi) — 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) — A smarter cd command. Supports all major shells.
 
 ## File
@@ -112,6 +113,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 - [bytehound](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
 - [delta](https://github.com/dandavison/delta) — A syntax-highlighting pager for git, diff, and grep output.
+- [difftastic](https://github.com/Wilfred/difftastic) — A structural diff that understands syntax 🟥🟩.
 - [dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making.
 - [dotter](https://github.com/SuperCuber/dotter) — A dotfile manager and templater written in rust 🦀.
 - [dtool](https://github.com/guoxbin/dtool) — A command-line tool collection to assist development.
@@ -143,7 +145,9 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [steel](https://github.com/mattwparas/steel) — An embedded scheme interpreter in Rust.
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
 - [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of tldr in Rust.
+- [tlrc](https://github.com/tldr-pages/tlrc) — A tldr client written in Rust.
 - [tinty](https://github.com/tinted-theming/tinty) — A base16 and base24 color scheme manager.
+- [tokei](https://github.com/XAMPPRocky/tokei) — Count your code, quickly.
 - [ugdb](https://github.com/ftilde/ugdb) — An alternative TUI for gdb wrote in Rust.
 - [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 
@@ -158,7 +162,6 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rnote](https://github.com/flxzt/rnote) — Sketch and take handwritten notes.
 - [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) — Your journal app if you live in a terminal.
 - [xi-editor](https://github.com/xi-editor/xi-editor) — A modern editor with a backend written in Rust.
-- [yazi](https://github.com/sxyazi/yazi) — 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zed](https://github.com/zed-industries/zed) — Code at the speed of thought.
 
 ## Others
@@ -168,6 +171,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [fend](https://github.com/printfn/fend) — Arbitrary-precision unit-aware calculator.
 - [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
 - [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - A TUI application for viewing markdown files.
 - [see](https://github.com/guilhermeprokisch/see) - A file visualization tool for terminal, offering advanced code viewing capabilities, Markdown rendering, and more. It provides syntax highlighting, emoji support, and image rendering capabilities, offering a visually appealing way to view various file types directly in your console.
 - [poketex](https://github.com/ckaznable/poketex) – Simple Pokedex based on TUI(Terminal User Interface).
@@ -175,7 +179,6 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 - [sudo.rs](https://github.com/memorysafety/sudo-rs) — A safety oriented and memory safe implementation of sudo and su written in Rust.
-- [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) — The distributed financial transactions database designed for mission critical safety and performance.
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) — Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
 - [youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust.
 - [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
