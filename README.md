@@ -132,6 +132,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [jless](https://github.com/PaulJuliusMartinez/jless) — jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [lurk](https://github.com/JakWai01/lurk) — A pretty (simple) alternative to strace.
 - [mask](https://github.com/jacobdeichert/mask) — 🎭 A CLI task runner defined by a simple markdown file.
+- [mdwatch](https://github.com/santoshxshrestha/mdwatch)  — A simple command-line tool to preview Markdown files in a web browser. It serves the rendered HTML version of a Markdown file over HTTP, allowing you to easily preview your Markdown content locally.
 - [mise](https://github.com/jdx/mise) –  dev tools, env vars, task runner.
 - [onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool.
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
