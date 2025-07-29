@@ -176,12 +176,13 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization.
 - [md-tui](https://github.com/henriklovhaug/md-tui) - A TUI application for viewing markdown files.
-- [see](https://github.com/guilhermeprokisch/see) - A file visualization tool for terminal, offering advanced code viewing capabilities, Markdown rendering, and more. It provides syntax highlighting, emoji support, and image rendering capabilities, offering a visually appealing way to view various file types directly in your console.
 - [poketex](https://github.com/ckaznable/poketex) – Simple Pokedex based on TUI(Terminal User Interface).
 - [ratatui](https://github.com/ratatui/ratatui) — A Rust crate for cooking up terminal user interfaces (TUIs).
 - [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
+- [see](https://github.com/guilhermeprokisch/see) - A file visualization tool for terminal, offering advanced code viewing capabilities, Markdown rendering, and more. It provides syntax highlighting, emoji support, and image rendering capabilities, offering a visually appealing way to view various file types directly in your console.
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 - [sudo.rs](https://github.com/memorysafety/sudo-rs) — A safety oriented and memory safe implementation of sudo and su written in Rust.
+- [toipe](https://github.com/Samyak2/toipe) — A trusty terminal typing tester.
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) — Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
 - [youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust.
 - [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
