@@ -41,6 +41,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [httm](https://github.com/kimono-koans/httm) – Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!).
 - [lscolors](https://github.com/sharkdp/lscolors) – A Rust library and tool to colorize paths using LS_COLORS.
 - [lsd](https://github.com/Peltoche/lsd) — The next gen ls command.
+- [parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) — Highly parallelized, blazing fast directory tree analyzer.
 - [rip](https://github.com/nivekuil/rip) — A safe and ergonomic alternative to rm.
 - [spacedrive](https://github.com/spacedriveapp/spacedrive) — Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [trashy](https://github.com/oberblastmeister/trashy) — a cli system trash manager, alternative to rm and trash-cli.
