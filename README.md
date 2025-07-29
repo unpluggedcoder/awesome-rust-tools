@@ -71,6 +71,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [below](https://github.com/facebookincubator/below) — A time traveling resource monitor for modern Linux systems.
 - [bottom](https://github.com/ClementTsang/bottom) — A customizable cross-platform graphical process/system monitor for the terminal.
 - [bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs.
+- [ccfetch](https://github.com/charleschetty/ccfetch) – A neofetch like system information tool written in rust. Which is super fast, even faster than fastfetch.
 - [diskonaut](https://github.com/imsnif/diskonaut) — Terminal disk space navigator 🔭 .
 - [netscanner](https://github.com/Chleba/netscanner) - All-in-one Network scanner.
 - [macchina](https://github.com/Macchina-CLI/macchina) — A system information frontend with an emphasis on performance.
