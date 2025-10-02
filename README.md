@@ -95,6 +95,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
 - [rargs](https://github.com/lotabout/rargs) – Rargs is kind of xargs + awk with pattern-matching support.
 - [rio](https://github.com/raphamorim/rio) — A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+- [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform real-time network monitoring tool built with Rust.
 - [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) — Fast command line app in rust/tokio to execute commands in parallel. Similar interface to GNU parallel or xargs.
 - [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
 - [shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers.
