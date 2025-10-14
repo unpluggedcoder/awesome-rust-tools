@@ -77,6 +77,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [pik](https://github.com/jacek-kurlit/pik) – Process Interactive Kill.
 - [procs](https://github.com/dalance/procs) — **procs** is a replacement for `ps` written in [Rust](https://www.rust-lang.org/).
 - [rsftch](https://github.com/charklie/rsftch) — Lightning fast hardware fetch written in rust.
+- [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform Terminal UI for real-time network monitoring with process identification and deep packet inspection.
 - [RustScan](https://github.com/RustScan/RustScan) — 🤖 The Modern Port Scanner 🤖 .
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease.
 - [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
@@ -95,7 +96,6 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
 - [rargs](https://github.com/lotabout/rargs) – Rargs is kind of xargs + awk with pattern-matching support.
 - [rio](https://github.com/raphamorim/rio) — A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-- [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform real-time network monitoring tool built with Rust.
 - [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) — Fast command line app in rust/tokio to execute commands in parallel. Similar interface to GNU parallel or xargs.
 - [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
 - [shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers.
