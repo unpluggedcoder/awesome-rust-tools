@@ -77,6 +77,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [pik](https://github.com/jacek-kurlit/pik) – Process Interactive Kill.
 - [procs](https://github.com/dalance/procs) — **procs** is a replacement for `ps` written in [Rust](https://www.rust-lang.org/).
 - [rsftch](https://github.com/charklie/rsftch) — Lightning fast hardware fetch written in rust.
+- [rustnet](https://github.com/domcyrus/rustnet) - A cross-platform Terminal UI for real-time network monitoring with process identification and deep packet inspection.
 - [RustScan](https://github.com/RustScan/RustScan) — 🤖 The Modern Port Scanner 🤖 .
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease.
 - [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
