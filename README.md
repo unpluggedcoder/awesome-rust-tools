@@ -15,6 +15,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
   - [Dev-Utilities](#dev-utilities)
   - [Editor](#editor)
   - [Others](#others)
+  - [Security](#security)
 
 ## Search
 
@@ -185,5 +186,10 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust.
 - [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
 - [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+
+## Security
+
+- [n01d-forge](https://github.com/bad-antics/n01d-forge) — Native GUI image burner with LUKS/VeraCrypt encryption support for creating secure bootable drives.
+- [n01d-machine](https://github.com/bad-antics/n01d-machine) — Secure VM manager with Tor/VPN integration, sandbox isolation, and network compartmentalization.
 
 Thanks these authors.
