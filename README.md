@@ -84,6 +84,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
 - [ytop(Archived)](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
 - [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
+- [macdisp](https://github.com/noworrieseh/macdisp) – macOS command-line tool for changing the display.
 
 ## Shell/Terminal
 
@@ -186,6 +187,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [youtube-tui](https://github.com/Siriusmart/youtube-tui) – An aesthetically pleasing YouTube TUI written in Rust.
 - [ytermusic](https://github.com/ccgauche/ytermusic) — An in terminal youtube music client with focus on privacy, simplicity and performance.
 - [zola](https://github.com/getzola/zola) — A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [zerobrew](https://github.com/lucasgelfond/zerobrew) – A drop-in, 5-20x faster, experimental Homebrew alternative.
 
 ## Security
 
