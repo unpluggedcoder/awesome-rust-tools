@@ -123,6 +123,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [eva](https://github.com/nerdypepper/eva) – A calculator REPL, similar to bc(1).
 - [fnm](https://github.com/Schniz/fnm) — 🚀 Fast and simple Node.js version manager, built in Rust.
 - [forge](https://github.com/antinomyhq/forge) — A terminal-based AI pair programmer for software development, providing intelligent code assistance and collaboration features.
+- [octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture.
 - [fw](https://github.com/brocode/fw) — Workspace productivity booster.
 - [git-absorb](https://github.com/tummychow/git-absorb) — git commit --fixup, but automatic.
 - [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
