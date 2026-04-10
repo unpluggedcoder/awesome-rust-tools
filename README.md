@@ -2,6 +2,7 @@
 
 Harness the power of Rust. Those fast productivity tools based on Rust.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=unpluggedcoder_awesome-rust-tools) - Follow Rust devs on GitHub and see what repos and crates they are checking out.
 ## Table of contents
 
 - [Awesome Rust Tools](#awesome-rust-tools)
