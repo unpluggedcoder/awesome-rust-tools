@@ -138,6 +138,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [mask](https://github.com/jacobdeichert/mask) — 🎭 A CLI task runner defined by a simple markdown file.
 - [mise](https://github.com/jdx/mise) –  dev tools, env vars, task runner.
 - [onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool.
+- [omnigraph](https://github.com/ModernRelay/omnigraph) — "Typed graph database where agents branch and merge like Git. S3-native, traversal + vector + BM25 in one runtime."
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
 - [qsv](https://github.com/dathere/qsv) — Blazing-fast Data-Wrangling toolkit.
 - [riff](https://github.com/walles/riff) – A diff filter highlighting which line parts have changed.
