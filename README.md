@@ -196,3 +196,6 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [n01d-machine](https://github.com/bad-antics/n01d-machine) — Secure VM manager with Tor/VPN integration, sandbox isolation, and network compartmentalization.
 
 Thanks these authors.
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
