@@ -122,6 +122,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [dtool](https://github.com/guoxbin/dtool) — A command-line tool collection to assist development.
 - [eva](https://github.com/nerdypepper/eva) – A calculator REPL, similar to bc(1).
 - [fnm](https://github.com/Schniz/fnm) — 🚀 Fast and simple Node.js version manager, built in Rust.
+- [dakera-cli](https://github.com/dakera-ai/dakera-cli) — Cross-platform CLI for managing a self-hosted Dakera AI agent memory server: namespaces, sessions, decay configuration, and memory queries.
 - [forge](https://github.com/antinomyhq/forge) — A terminal-based AI pair programmer for software development, providing intelligent code assistance and collaboration features.
 - [octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture.
 - [fw](https://github.com/brocode/fw) — Workspace productivity booster.
