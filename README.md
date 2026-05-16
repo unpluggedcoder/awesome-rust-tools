@@ -27,6 +27,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [television](https://github.com/alexpasmantier/television) — General purpose fuzzy finder TUI.
 - [skim](https://github.com/lotabout/skim) — Fuzzy Finder in rust!
 - [scout](https://github.com/jhbabon/scout) — Your friendly fuzzy finder.
+- [Reflex](https://github.com/reflex-search/reflex) — Local-first, trigram-indexed full-text code search engine for large codebases. Sub-100ms queries, JSON output, and MCP server for AI agent workflows.
 - [sweep-rs](https://github.com/aslpavel/sweep-rs) — Sweep is a tool for interactive search through a list of entries. It is inspired by fzf.
 
 ## FileSystem
