@@ -101,6 +101,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) — Fast command line app in rust/tokio to execute commands in parallel. Similar interface to GNU parallel or xargs.
 - [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
 - [shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers.
+- [splashboard](https://github.com/unhappychoice/splashboard) - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards.
 - [starship](https://github.com/starship/starship) — ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! [https://starship.rs](https://starship.rs/)
 - [wezterm](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 - [zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included.
@@ -126,6 +127,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [octomind](https://github.com/muvon/octomind) — Session-based AI development assistant with MCP support, 7 LLM providers, and extensible architecture.
 - [fw](https://github.com/brocode/fw) — Workspace productivity booster.
 - [git-absorb](https://github.com/tummychow/git-absorb) — git commit --fixup, but automatic.
+- [gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit history replay for the terminal.
 - [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
 - [gitui](https://github.com/extrawurst/gitui) — Blazing fast terminal-ui for git written in rust.
 - [gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐.
@@ -176,6 +178,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line.
 - [coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils.
 - [fend](https://github.com/printfn/fend) — Arbitrary-precision unit-aware calculator.
+- [gittype](https://github.com/unhappychoice/gittype) - A code-typing game that turns your source code into typing challenges.
 - [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
 - [inlyne](https://github.com/Inlyne-Project/inlyne) — A GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization.
