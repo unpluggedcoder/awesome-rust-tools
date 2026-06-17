@@ -190,6 +190,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [poketex](https://github.com/ckaznable/poketex) – Simple Pokedex based on TUI(Terminal User Interface).
 - [ratatui](https://github.com/ratatui/ratatui) — A Rust crate for cooking up terminal user interfaces (TUIs).
 - [rustdesk](https://github.com/rustdesk/rustdesk) — The best open source remote desktop client software.
+- [screenpipe](https://github.com/screenpipe/screenpipe) — Local 24/7 screen & mic recorder that indexes OCR, accessibility, and audio transcripts for AI search and agents (works with Ollama).
 - [shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) — A Rust port of shadowsocks
 - [sudo.rs](https://github.com/memorysafety/sudo-rs) — A safety oriented and memory safe implementation of sudo and su written in Rust.
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) — Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
