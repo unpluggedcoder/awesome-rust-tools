@@ -74,6 +74,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [bpftop](https://github.com/Netflix/bpftop) – bpftop provides a dynamic real-time view of running eBPF programs.
 - [diskonaut](https://github.com/imsnif/diskonaut) — Terminal disk space navigator 🔭 .
 - [featherbar](https://github.com/nim444/featherbar) — A featherweight macOS menu-bar system monitor showing CPU, RAM, power, and temperature.
+- [lazyslurm](https://github.com/hill/lazyslurm) - A lazygit-style terminal UI for Slurm. Monitor jobs, tail logs, and inspect nodes and partitions.
 - [netscanner](https://github.com/Chleba/netscanner) - All-in-one Network scanner.
 - [macchina](https://github.com/Macchina-CLI/macchina) — A system information frontend with an emphasis on performance.
 - [macmon](https://github.com/vladkens/macmon) - Sudoless performance / power monitoring for Apple Silicon processors.
