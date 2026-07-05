@@ -151,6 +151,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
 - [rust_kanban](https://github.com/yashs662/rust_kanban) — A kanban board for the terminal built with ❤️ in Rust.
 - [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
+- [sem](https://github.com/Ataraxy-Labs/sem) - Semantic version control on top of Git: entity-level diffs, blame, and cross-file impact analysis (28 languages via tree-sitter), built for coding agents.
 - [silicon](https://github.com/Aloxaf/silicon) — Silicon is an alternative to [Carbon](https://github.com/dawnlabs/carbon) implemented in Rust. It can render your source code into a beautiful image.
 - [slumber](https://github.com/LucasPickering/slumber) — Terminal-based HTTP/REST client.
 - [sqleibniz](https://github.com/xNaCly/sqleibniz) – LSP and analysis cli for sql. Check for valid syntax, semantics and perform dynamic analysis.
