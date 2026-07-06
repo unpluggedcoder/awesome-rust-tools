@@ -106,6 +106,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers.
 - [splashboard](https://github.com/unhappychoice/splashboard) - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards.
 - [starship](https://github.com/starship/starship) — ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! [https://starship.rs](https://starship.rs/)
+- [tty7](https://github.com/l0ng-ai/tty7) — A GPU-rendered, daemon-backed terminal in pure Rust; sessions survive quitting the app without tmux.
 - [wezterm](https://github.com/wez/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 - [zellij](https://github.com/zellij-org/zellij) — A terminal workspace with batteries included.
 
