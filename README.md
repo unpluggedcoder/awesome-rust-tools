@@ -118,6 +118,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 ## Dev-Utilities
 
+- [nika](https://github.com/supernovae-st/nika) — Workflow engine for AI: .nika.yaml DAGs statically checked before execution (schema, permits, cost), tamper-evident traces after; local-first, MCP client and server.
 - [bytehound](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
 - [delta](https://github.com/dandavison/delta) — A syntax-highlighting pager for git, diff, and grep output.
 - [difftastic](https://github.com/Wilfred/difftastic) — A structural diff that understands syntax 🟥🟩.
