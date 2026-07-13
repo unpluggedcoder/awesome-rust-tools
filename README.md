@@ -144,6 +144,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [lurk](https://github.com/JakWai01/lurk) — A pretty (simple) alternative to strace.
 - [mask](https://github.com/jacobdeichert/mask) — 🎭 A CLI task runner defined by a simple markdown file.
 - [mise](https://github.com/jdx/mise) –  dev tools, env vars, task runner.
+- [nika](https://github.com/supernovae-st/nika) — Workflow engine for AI: .nika.yaml DAGs statically checked before execution (schema, permits, cost), tamper-evident traces after; local-first, MCP client and server.
 - [onefetch](https://github.com/o2sh/onefetch) – Command-line Git information tool.
 - [omnigraph](https://github.com/ModernRelay/omnigraph) — "Typed graph database where agents branch and merge like Git. S3-native, traversal + vector + BM25 in one runtime."
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
