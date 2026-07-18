@@ -163,6 +163,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [tlrc](https://github.com/tldr-pages/tlrc) — A tldr client written in Rust.
 - [tinty](https://github.com/tinted-theming/tinty) — A base16 and base24 color scheme manager.
 - [tokei](https://github.com/XAMPPRocky/tokei) — Count your code, quickly.
+- [Tura](https://github.com/Tura-AI/tura) — Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
 - [ugdb](https://github.com/ftilde/ugdb) — An alternative TUI for gdb wrote in Rust.
 - [xsv](https://github.com/BurntSushi/xsv) — A fast CSV command line toolkit written in Rust.
 
