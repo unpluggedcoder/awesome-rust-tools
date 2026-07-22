@@ -125,6 +125,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making.
 - [dotter](https://github.com/SuperCuber/dotter) — A dotfile manager and templater written in rust 🦀.
 - [dtool](https://github.com/guoxbin/dtool) — A command-line tool collection to assist development.
+- [edky](https://github.com/artob/edky) - A command-line utility to convert Ed25519 public keys between various encoding formats (Base58, Base64, IPFS, iroh, libp2p, OpenSSH, etc).
 - [eva](https://github.com/nerdypepper/eva) – A calculator REPL, similar to bc(1).
 - [fnm](https://github.com/Schniz/fnm) — 🚀 Fast and simple Node.js version manager, built in Rust.
 - [forge](https://github.com/antinomyhq/forge) — A terminal-based AI pair programmer for software development, providing intelligent code assistance and collaboration features.
