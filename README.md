@@ -118,6 +118,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [py-spy](https://github.com/benfred/py-spy) — Sampling profiler for Python programs.
 
 ## Dev-Utilities
+- [intentdiff](https://github.com/harivilasp/intentdiff) — Structure-aware Git diff for code review; collapses formatting noise and highlights moved code, probable renames, import reorders, and meaningful edits.
 
 - [bytehound](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
 - [delta](https://github.com/dandavison/delta) — A syntax-highlighting pager for git, diff, and grep output.
