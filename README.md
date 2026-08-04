@@ -134,6 +134,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit history replay for the terminal.
 - [gitoxide](https://github.com/Byron/gitoxide) — An idiomatic, lean, fast & safe pure Rust implementation of Git.
 - [gitui](https://github.com/extrawurst/gitui) — Blazing fast terminal-ui for git written in rust.
+- [Gitside](https://github.com/dev-bhaskar8/gitside) — Responsive, mouse-friendly Git source-control TUI for full terminals and narrow tmux panes.
 - [gity](https://github.com/neul-labs/gity) — A cross-platform Rust daemon that accelerates Git on large repos via the fsmonitor protocol.
 - [gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
