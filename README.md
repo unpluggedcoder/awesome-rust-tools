@@ -208,6 +208,8 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 ## Security
 
+- [fnprint](https://github.com/1rhino2/fnprint) - Behavioral function fingerprinting; names functions in stripped ELF binaries and patch-diffs vuln vs patched builds by microexecution.
+
 - [n01d-forge](https://github.com/bad-antics/n01d-forge) — Native GUI image burner with LUKS/VeraCrypt encryption support for creating secure bootable drives.
 - [n01d-machine](https://github.com/bad-antics/n01d-machine) — Secure VM manager with Tor/VPN integration, sandbox isolation, and network compartmentalization.
 
