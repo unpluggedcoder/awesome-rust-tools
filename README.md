@@ -176,6 +176,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [iota](https://github.com/gchp/iota) — A terminal-based text editor written in Rust.
 - [lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust.
 - [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
+- [PinkDown](https://github.com/3xian/PinkDown) — Fast native split-pane Markdown editor and reader for Windows and macOS, built with Rust and egui.
 - [qnote](https://github.com/Omibranch/qnote) — Minimal frameless notepad for Linux with Markdown preview, PDF export via Typst, OCR via Tesseract, and version history. Built with Tauri 2.
 - [rnote](https://github.com/flxzt/rnote) — Sketch and take handwritten notes.
 - [TUI-Journal](https://github.com/AmmarAbouZor/tui-journal) — Your journal app if you live in a terminal.
