@@ -22,6 +22,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [fd](https://github.com/sharkdp/fd) — A simple, fast and user-friendly alternative to 'find'.
 - [igrep](https://github.com/konradsz/igrep) — Interactive Grep. Runs grep (ripgrep's library) in the background, allows interactively pick its results and open selected match in text editor of choice (vim by default).
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) — Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine.
+- [qdrant-es-gateway](https://github.com/dstockton/qdrant-es-gateway) — Elasticsearch-compatible application search gateway backed by the Qdrant engine.
 - [repgrep](https://github.com/acheronfail/repgrep) — An interactive replacer for ripgrep that makes it easy to find and replace across files on the command line.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) — A line-oriented search tool that recursively searches your current directory for a regex pattern.
 - [television](https://github.com/alexpasmantier/television) — General purpose fuzzy finder TUI.
