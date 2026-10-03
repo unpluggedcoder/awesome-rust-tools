@@ -153,6 +153,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [pastel](https://github.com/sharkdp/pastel) — A command-line tool to generate, analyze, convert and manipulate colors.
 - [qsv](https://github.com/dathere/qsv) — Blazing-fast Data-Wrangling toolkit.
 - [riff](https://github.com/walles/riff) – A diff filter highlighting which line parts have changed.
+- [rubrol](https://github.com/maxcomperatore/rubrol) — Sub-millisecond Typst-native PDF engine and sidecar for high-throughput document and invoice generation.
 - [rust_sqlite](https://github.com/joaoh82/rust_sqlite) — Simple embedded database modeled off SQLite in Rust
 - [rust_kanban](https://github.com/yashs662/rust_kanban) — A kanban board for the terminal built with ❤️ in Rust.
 - [sccache](https://github.com/mozilla/sccache) — sccache is a [ccache](https://ccache.dev/)-like compiler caching tool.
