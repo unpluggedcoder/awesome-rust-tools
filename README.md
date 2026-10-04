@@ -162,6 +162,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [sqleibniz](https://github.com/xNaCly/sqleibniz) – LSP and analysis cli for sql. Check for valid syntax, semantics and perform dynamic analysis.
 - [steel](https://github.com/mattwparas/steel) — An embedded scheme interpreter in Rust.
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
+- [supercov](https://github.com/supercorp-ai/supercov) — Line, branch and MC/DC coverage per test on stable Rust, by wrapping `cargo test` or `cargo nextest run`.
 - [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of tldr in Rust.
 - [tlrc](https://github.com/tldr-pages/tlrc) — A tldr client written in Rust.
 - [tinty](https://github.com/tinted-theming/tinty) — A base16 and base24 color scheme manager.
