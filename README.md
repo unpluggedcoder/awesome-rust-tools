@@ -141,6 +141,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [gpg-tui](https://github.com/orhun/gpg-tui) – Manage your GnuPG keys with ease! 🔐.
 - [grex](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases.
 - [hurl](https://github.com/Orange-OpenSource/hurl) — Hurl, run and test HTTP requests with plain text.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha CLI for encrypted, append-only knowledge with search and scoped, expiring MCP grants.
 - [intentdiff](https://github.com/harivilasp/intentdiff) — Structure-aware Git diff for code review; collapses formatting noise and highlights moved code, probable renames, import reorders, and meaningful edits.
 - [jaq](https://github.com/01mf02/jaq) — A jq clone focussed on correctness, speed, and simplicity.
 - [jj](https://github.com/martinvonz/jj) — A Git-compatible VCS that is both simple and powerful.
