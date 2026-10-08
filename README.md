@@ -104,6 +104,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [rust-parallel](https://github.com/aaronriekenberg/rust-parallel) — Fast command line app in rust/tokio to execute commands in parallel. Similar interface to GNU parallel or xargs.
 - [sd](https://github.com/chmln/sd) — Intuitive find & replace CLI (sed alternative).
 - [shrs](https://github.com/MrPicklePinosaur/shrs) – The rusty shell toolkit for hackers.
+- [sparklebios](https://github.com/reactivepixels/sparklebios) - Draws a retro 1995 PC BIOS boot screen with real system facts and cached health checks on every new terminal tab.
 - [splashboard](https://github.com/unhappychoice/splashboard) - A customizable terminal splash rendered on shell startup and on directory change, with per-directory dashboards.
 - [starship](https://github.com/starship/starship) — ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell! [https://starship.rs](https://starship.rs/)
 - [tty7](https://github.com/l0ng-ai/tty7) — A GPU-rendered, daemon-backed terminal in pure Rust; sessions survive quitting the app without tmux.
