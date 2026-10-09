@@ -121,6 +121,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 ## Dev-Utilities
 - [bytehound](https://github.com/koute/memory-profiler) — A memory profiler for Linux.
+- [dbdiff](https://github.com/rekurt/dbdiff) — Compare PostgreSQL, MySQL/MariaDB, and SQLite schemas, generate migration SQL for review, and detect schema drift in CI.
 - [delta](https://github.com/dandavison/delta) — A syntax-highlighting pager for git, diff, and grep output.
 - [difftastic](https://github.com/Wilfred/difftastic) — A structural diff that understands syntax 🟥🟩.
 - [dnspeep](https://github.com/jvns/dnspeep) – spy on the DNS queries your computer is making.
