@@ -166,6 +166,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [steel](https://github.com/mattwparas/steel) — An embedded scheme interpreter in Rust.
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) — An opinionated Lua code formatter.
 - [supercov](https://github.com/supercorp-ai/supercov) — Line, branch and MC/DC coverage per test on stable Rust, by wrapping `cargo test` or `cargo nextest run`.
+- [Synaps](https://github.com/HaseebKhalid1507/SynapsCLI) — Terminal AI agent runtime with parallel subagents, MCP, and plugins.
 - [tealdeer](https://github.com/dbrgn/tealdeer) — A very fast implementation of tldr in Rust.
 - [tlrc](https://github.com/tldr-pages/tlrc) — A tldr client written in Rust.
 - [tinty](https://github.com/tinted-theming/tinty) — A base16 and base24 color scheme manager.
