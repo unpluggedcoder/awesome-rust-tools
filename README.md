@@ -193,6 +193,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 - [bartib](https://github.com/nikolassv/bartib) - A simple timetracker for the command line.
 - [coreutils](https://github.com/uutils/coreutils) – Cross-platform Rust rewrite of the GNU coreutils.
+- [faro](https://github.com/harababurel/faro) — A Signal client for the terminal, built for tmux and SSH, with a command palette, themes and inline images.
 - [fend](https://github.com/printfn/fend) — Arbitrary-precision unit-aware calculator.
 - [gittype](https://github.com/unhappychoice/gittype) - A code-typing game that turns your source code into typing challenges.
 - [himalaya](https://github.com/soywod/himalaya) – 📫 CLI email client written in Rust.
