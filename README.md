@@ -180,6 +180,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [gnvim](https://github.com/vhakulinen/gnvim) — GNvim, Neovim GUI aiming for rich code editing experience without any unnecessary web bloat.
 - [helix](https://github.com/helix-editor/helix) — A post-modern modal text editor.
 - [iota](https://github.com/gchp/iota) — A terminal-based text editor written in Rust.
+- [Koru](https://github.com/koruworks/mono) - Local-first workspace for notes, docs and files with a native Rust UI, code blocks and terminal tabs, storing notes in a local database on Windows and macOS.
 - [lapce](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust.
 - [neovide](https://github.com/Kethku/neovide) — No Nonsense Neovim Client in Rust.
 - [PinkDown](https://github.com/3xian/PinkDown) — Fast native split-pane Markdown editor and reader for Windows and macOS, built with Rust and egui.
