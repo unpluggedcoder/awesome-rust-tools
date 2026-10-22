@@ -55,6 +55,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 - [bat](https://github.com/sharkdp/bat)— A `cat(1)` clone with wings.
 - [csvlens](https://github.com/YS-L/csvlens) — Command line csv viewer.
+- [Glim](https://github.com/NeoPanic/Glim) — macOS file viewer built with Rust and GPUI Kit for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
 - [hck](https://github.com/sstadick/hck) — A sharp cut(1) clone.
 - [hex](https://github.com/sitkevij/hex) — 🔮 Futuristic take on hexdump, made in Rust.
 - [hexyl](https://github.com/sharkdp/hexyl) — A command-line hex viewer.
