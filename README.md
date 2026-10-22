@@ -35,6 +35,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 - [diskus](https://github.com/sharkdp/diskus) — A minimal, fast alternative to 'du -sh'.
 - [broot](https://github.com/Canop/broot) — A new way to see and navigate directory trees.
+- [cloud-image-inspector](https://github.com/virtainer/cloud-image-inspector) — Read files and OS facts from qcow2 and raw cloud images (ext4, XFS, btrfs) without booting or mounting them.
 - [dua-cli](https://github.com/Byron/dua-cli) — A tool to conveniently learn about the disk usage of directories, fast!
 - [dust](https://github.com/bootandy/dust) — A more intuitive version of `du` in rust.
 - [dutree](https://github.com/nachoparker/dutree) — A tool to analyze file system usage written in Rust.
