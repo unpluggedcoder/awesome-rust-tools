@@ -65,6 +65,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [ouch](https://github.com/ouch-org/ouch) — Painless compression and decompression in the terminal.
 - [runiq](https://github.com/whitfin/runiq) — An efficient way to filter duplicate lines from input, à la uniq.
 - [ruplacer](https://github.com/your-tools/ruplacer) — Find and replace text in source files.
+- [TelescopeView](https://github.com/bani4kaskashka/TelescopeView) — The fastest gallery viewer: pictures, videos, comics, manga and webtoons, preloaded so flipping never flickers.
 - [termscp](https://github.com/veeso/termscp) – 🖥 A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB.
 - [xcp](https://github.com/tarka/xcp) — An extended `cp`.
 - [xplr](https://github.com/sayanarijit/xplr) — A hackable, minimal, fast TUI file explorer.
