@@ -151,6 +151,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [jaq](https://github.com/01mf02/jaq) — A jq clone focussed on correctness, speed, and simplicity.
 - [jj](https://github.com/martinvonz/jj) — A Git-compatible VCS that is both simple and powerful.
 - [jless](https://github.com/PaulJuliusMartinez/jless) — jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
+- [logbrew](https://github.com/LogBrewCo/cli) - Error tracking and log monitoring in the terminal. Read issues, logs, and traces, or watch new errors live, with JSON output for scripts and AI agents.
 - [lurk](https://github.com/JakWai01/lurk) — A pretty (simple) alternative to strace.
 - [mask](https://github.com/jacobdeichert/mask) — 🎭 A CLI task runner defined by a simple markdown file.
 - [mise](https://github.com/jdx/mise) –  dev tools, env vars, task runner.
