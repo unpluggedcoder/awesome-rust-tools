@@ -101,6 +101,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [handlr-regex](https://github.com/Anomalocaridid/handlr-regex) — A fork of `handlr` an `xdg-utils` alternative.
 - [just](https://github.com/casey/just) — 🤖 Just a command runner.
 - [mprocs](https://github.com/pvolok/mprocs) — Run multiple commands in parallel.
+- [Muxflow](https://github.com/gal064/muxflow) — A remote-first tmux IDE for coding agents, with agent notifications on desktop and phone, voice replies and multi-host SSH.
 - [navi](https://github.com/denisidoro/navi) — An interactive cheatsheet tool for the command-line and application launchers.
 - [nushell](https://github.com/nushell/nushell) — A modern shell written in Rust.
 - [rargs](https://github.com/lotabout/rargs) – Rargs is kind of xargs + awk with pattern-matching support.
