@@ -118,6 +118,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 ## Performance
 
 - [cargo-flamegraph](https://github.com/ferrous-systems/cargo-flamegraph) — Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3.
+- [hotpath-rs](https://github.com/hotpath-rs/hotpath) — A simple Rust profiler that shows exactly why your code is slow. Find CPU, memory, async, SQL, I/O and contention bottlenecks.
 - [hyperfine](https://github.com/sharkdp/hyperfine) — A command-line benchmarking tool.
 - [inferno](https://github.com/jonhoo/inferno) — A Rust port of FlameGraph. 18x~20x faster than [flamegraph.pl](https://github.com/brendangregg/FlameGraph/blob/master/flamegraph.pl).
 - [py-spy](https://github.com/benfred/py-spy) — Sampling profiler for Python programs.
