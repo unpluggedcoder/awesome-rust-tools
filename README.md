@@ -185,6 +185,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 ## Editor
 
 - [amp](https://github.com/jmacdonald/amp) — A text editor for your terminal.
+- [DESIGN:OS Studio](https://github.com/jangtrinh/design-os-studio) — Free native interface design editor for macOS, Windows and Linux that opens and saves .fig files, with a built-in MCP server so AI coding agents can edit the open file.
 - [gnvim](https://github.com/vhakulinen/gnvim) — GNvim, Neovim GUI aiming for rich code editing experience without any unnecessary web bloat.
 - [helix](https://github.com/helix-editor/helix) — A post-modern modal text editor.
 - [iota](https://github.com/gchp/iota) — A terminal-based text editor written in Rust.
