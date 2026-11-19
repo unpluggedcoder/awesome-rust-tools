@@ -98,6 +98,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 
 - [alacritty](https://github.com/alacritty/alacritty) — A cross-platform, GPU-accelerated terminal emulator.
 - [atuin](https://github.com/atuinsh/atuin) – ✨ Magical shell history.
+- [ButtonsCLI Native](https://github.com/detroittommy879/buttonscli-native) — A native Rust terminal workspace with tiled panes, clickable command buttons, themes, and optional AI assistance.
 - [createnv](https://github.com/cuducos/createnv) - 🧞‍♀️Automagically creates .env files.
 - [handlr-regex](https://github.com/Anomalocaridid/handlr-regex) — A fork of `handlr` an `xdg-utils` alternative.
 - [just](https://github.com/casey/just) — 🤖 Just a command runner.
