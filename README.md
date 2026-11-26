@@ -90,6 +90,7 @@ Harness the power of Rust. Those fast productivity tools based on Rust.
 - [RustScan](https://github.com/RustScan/RustScan) — 🤖 The Modern Port Scanner 🤖 .
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) — Cross-platform application to monitor your network traffic with ease.
 - [trippy](https://github.com/fujiapple852/trippy) — A network diagnostic tool.
+- [Whilo Trace](https://github.com/Whilo-Labs/whilo-trace) - Desktop app and CLI that watch the network path to several hosts at once: per-hop packet loss and latency over time, the hop where the loss starts and a report for the ISP.
 - [ytop(Archived)](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust.
 - [Zenith](https://github.com/bvaisvil/zenith) — Sort of like top or htop but with zoom-able charts, network, and disk usage.
 - [macdisp](https://github.com/noworrieseh/macdisp) – macOS command-line tool for changing the display.
